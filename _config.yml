@@ -1,0 +1,50 @@
+title: "Daniel F. T. Hagan"
+author: "Daniel Fiifi Tawia Hagan"
+description: "Hydro-climate research scientist at Ghent University's Hydro-Climate Extremes Lab (H-CEL). Causal inference for land–atmosphere interactions, compound dry–hot extremes, satellite soil moisture and land data assimilation."
+url: "https://dannyhay.github.io"
+baseurl: ""                # empty is correct for a <username>.github.io repository
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout (Contrast theme options)
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "news.md",         title: News}
+  - {file: "research.md",     title: Research & Projects}
+  - {file: "publications.md", title: Publications}
+  - {file: "talks.md",        title: Talks & Outreach}
+  - {file: "teaching.md",     title: Teaching & Supervision}
+  - {file: "tools.md",        title: Data & Tools}
+  - {file: "social.md",       title: Social Life}
+  - {file: "cv.md",           title: CV}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons and jpswalsh.github.io/academicons
+  - {title: Mail,            icon: envelope,       url: "mailto:daniel.hagan@ugent.be"}
+  - {title: Google Scholar,  icon: google-scholar, url: "https://scholar.google.com/citations?user=KUfwjYsAAAAJ&hl=en"}
+  - {title: ORCID,           icon: orcid,          url: "https://orcid.org/0000-0003-3501-9783"}
+  - {title: ResearchGate,    icon: researchgate,   url: "https://www.researchgate.net/profile/Daniel-Hagan-2"}
+  - {title: LinkedIn,        icon: linkedin,       url: "https://www.linkedin.com/in/daniel-fiifi-tawia-hagan-122355140"}
+  - {title: UGent,           icon: university,     url: "https://www.ugent.be/bw/environment/en/research/h-cel/staff/daniel-hagan.htm"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

@@ -1,0 +1,19 @@
+<ul class="external-links">
+  {% for link in site.external %}
+    <li>
+      <a href="{{ link.url }}" target="_blank" rel="noopener" title="{{ link.title }}">
+        {% assign icon = link.icon | downcase %}
+        {% if icon == "envelope" or icon == "university" or icon == "file-pdf" or icon == "globe" %}
+          <i class="fa-solid fa-{{ icon }}"></i>
+        {% elsif icon == "google-scholar" or icon == "researchgate" or icon == "orcid" or icon == "arxiv" or icon == "zenodo" %}
+          <i class="ai ai-{{ icon }}"></i>
+        {% else %}
+          <!-- default to FA brands: github, linkedin, bluesky, twitter, etc. -->
+          <i class="fa-brands fa-{{ icon }}"></i>
+        {% endif %}
+        <span>{{ link.title }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+<div class="colophon">© {{ site.time | date: "%Y" }} {{ site.author }} · Built with <a href="https://jekyllrb.com/">Jekyll</a> and the <a href="https://github.com/niklasbuschmann/contrast">Contrast</a> theme.</div>

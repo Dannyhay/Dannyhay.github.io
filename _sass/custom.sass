@@ -1,0 +1,366 @@
+// Site-specific additions to the Contrast theme
+
+// Header: keep the name on one line, let the menu wrap under it on narrow screens
+body > header
+  row-gap: .25em
+
+nav
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+
+nav a
+  white-space: nowrap
+
+nav a.selected
+  border-bottom: 2px solid $link-color
+  padding-bottom: .1em
+
+// Profile block on the About page
+.profile
+  display: grid
+  grid-template-columns: minmax(160px, 220px) 1fr
+  gap: 1.75em
+  align-items: start
+  margin-bottom: 1.5em
+
+.profile img
+  width: 100%
+  margin: 0
+  border-radius: 4px
+  box-shadow: 0 1px 4px reduce(20)
+
+.profile .intro p:first-child
+  margin-top: 0
+
+@media (max-width: 40em)
+  .profile
+    grid-template-columns: 1fr
+  .profile img
+    max-width: 240px
+
+.affiliation
+  color: reduce(70)
+  font-size: .95em
+  margin: 0 0 .75em
+
+.contact-list
+  list-style: none
+  padding: 0
+  margin: 1em 0 0
+  display: flex
+  flex-wrap: wrap
+  gap: .4em 1.4em
+
+.contact-list li
+  margin: 0
+  white-space: nowrap
+
+.contact-list i
+  width: 1.3em
+  text-align: center
+  color: reduce(70)
+  margin-right: .2em
+
+// Interest tags
+.tags
+  display: flex
+  flex-wrap: wrap
+  gap: .4em
+  margin: .5em 0 1.25em
+  padding: 0
+  list-style: none
+
+.tags li
+  margin: 0
+  padding: .15em .7em
+  border-radius: 999px
+  font-size: .85em
+  background: reduce(7)
+  border: 1px solid reduce(14)
+
+// Call-outs
+.callout
+  background: reduce(5)
+  border-left: 3px solid $link-color
+  border-radius: 2px
+  padding: .6em 1.2em
+  margin: 1.5em 0
+
+// News list
+.news
+  list-style: none
+  padding: 0
+  margin: 0
+
+.news li
+  display: grid
+  grid-template-columns: 7.5em 1fr
+  gap: 1em
+  padding: .9em 0
+  margin: 0
+  border-bottom: 1px solid reduce(10)
+
+.news li:last-child
+  border-bottom: none
+
+.news time
+  color: reduce(70)
+  font-size: .9em
+  padding-top: .15em
+  white-space: nowrap
+
+.news p
+  margin: 0
+  text-align: left
+
+@media (max-width: 40em)
+  .news li
+    grid-template-columns: 1fr
+    gap: .2em
+
+// Research theme cards
+.theme
+  padding: 1.25em 0
+  border-bottom: 1px solid reduce(10)
+
+.theme:last-of-type
+  border-bottom: none
+
+.theme h3
+  margin: 0 0 .4em
+  font-size: 1.15em
+
+.theme .pubs
+  font-size: .92em
+  margin: .6em 0 0 0
+  padding-left: 1.2em
+
+.theme .pubs li
+  margin: .3em 0
+
+// Project table
+.projects
+  display: table
+  width: 100%
+  font-size: .95em
+
+.projects th
+  text-align: left
+
+// Publications
+.pubs-year
+  margin: 1.75em 0 .5em
+  padding-bottom: .25em
+  border-bottom: 1px solid reduce(14)
+  font-size: 1.2em
+
+ol.publist
+  padding-left: 1.6em
+  margin: 0
+
+ol.publist li
+  margin: .65em 0
+  text-align: left
+
+ol.publist li .venue
+  font-style: italic
+
+ol.publist li .doi, ol.publist a, .pubs a
+  overflow-wrap: anywhere
+
+.me
+  font-weight: $font-weight + 200
+
+// Talk / outreach cards
+.card
+  display: grid
+  grid-template-columns: 1fr
+  gap: .4em
+  padding: 1.1em 0
+  border-bottom: 1px solid reduce(10)
+
+.card:last-of-type
+  border-bottom: none
+
+.card .card-title
+  font-weight: $font-weight + 200
+  font-size: 1.05em
+
+.card .card-sub
+  color: reduce(70)
+  font-size: .9em
+
+.card p
+  margin: .3em 0 0
+  text-align: left
+
+// Supervision & teaching tables
+.thesis, .courses
+  display: table
+  width: 100%
+  font-size: .93em
+
+@media (max-width: 40em)
+  .projects, .courses
+    display: block
+    overflow-x: auto
+
+.thesis td:first-child
+  white-space: nowrap
+  color: reduce(70)
+
+// Data & tools
+.dataset
+  padding: 1.1em 0
+  border-bottom: 1px solid reduce(10)
+
+.dataset:last-of-type
+  border-bottom: none
+
+.dataset h3
+  margin: 0 0 .3em
+  font-size: 1.1em
+
+.dataset .links a
+  display: inline-block
+  margin: .4em .8em 0 0
+  padding: .25em .7em
+  border: 1.5px solid $link-color
+  border-radius: 2px
+  font-size: .9em
+  transition: .2s background, .2s color
+
+.dataset .links a:hover
+  color: #fff
+  background: $link-color
+  text-decoration: none
+
+// CV page
+.cv-section h2
+  margin-top: 1.75em
+
+.cv-entry
+  display: grid
+  grid-template-columns: 9em 1fr
+  gap: 1em
+  margin: .8em 0
+
+.cv-entry .when
+  color: reduce(70)
+  font-size: .92em
+  padding-top: .1em
+
+.cv-entry p
+  margin: 0
+  text-align: left
+
+@media (max-width: 40em)
+  .cv-entry
+    grid-template-columns: 1fr
+    gap: .1em
+
+// Footer
+footer .external-links
+  list-style: none
+  padding: 0
+  margin: 0
+  display: flex
+  flex-wrap: wrap
+  gap: .5em 1.4em
+
+footer .external-links li
+  margin: 0
+
+footer .external-links i
+  margin-right: .35em
+
+footer .colophon
+  width: 100%
+  margin-top: .9em
+  font-size: .85em
+  opacity: .7
+
+// ---- Figures, media cards, books, buttons (added for the news/social pages)
+figure
+  margin: 1em 0 .5em
+
+figure img
+  display: block
+  width: 100%
+  margin: 0
+  border-radius: 4px
+  box-shadow: 0 1px 4px reduce(18)
+
+figcaption
+  font-size: .85em
+  color: reduce(70)
+  margin-top: .5em
+  text-align: left
+  line-height: 1.45
+
+.news li > div > p:first-child
+  margin-top: 0
+
+.theme figure
+  margin: 1em 0 1.25em
+
+.card-media
+  grid-template-columns: minmax(180px, 280px) 1fr
+  gap: 1.5em
+  align-items: start
+
+.card-media img
+  width: 100%
+  margin: 0
+  border-radius: 4px
+  box-shadow: 0 1px 4px reduce(18)
+
+.card-media p:first-of-type
+  margin-top: .4em
+
+@media (max-width: 40em)
+  .card-media
+    grid-template-columns: 1fr
+
+.card a i, .books i, .btn i
+  margin-right: .4em
+  color: reduce(70)
+
+.books
+  list-style: none
+  padding: 0
+  margin: .5em 0 1.5em
+
+.books li
+  display: flex
+  align-items: baseline
+  gap: .6em
+  padding: .55em 0
+  margin: 0
+  border-bottom: 1px solid reduce(10)
+
+.books li:last-child
+  border-bottom: none
+
+.btn
+  display: inline-block
+  padding: .3em .8em
+  border: 1.5px solid $link-color
+  border-radius: 2px
+  font-size: .92em
+  transition: .2s background, .2s color
+
+.btn:hover
+  color: #fff
+  background: $link-color
+  text-decoration: none
+
+.btn:hover i
+  color: #fff
+
+// Section headings get a light rule, like the publication years
+article > h2, article > div > h2
+  margin-top: 1.9em
+  padding-bottom: .25em
+  border-bottom: 1px solid reduce(14)
