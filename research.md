@@ -29,7 +29,7 @@ My research asks a deceptively simple question: **which way does the arrow point
 </div>
 
 <div class="theme">
-<h3>2 · Soil moisture–temperature coupling and compound dry–hot extremes</h3>
+<h3>2 · Soil moisture–climate coupling and compound dry–hot extremes</h3>
 <p>Soil-moisture deficits amplify heat, and heat deepens drought: this two-way coupling is at the heart of compound dry–hot extremes. Using causal metrics across observations, reanalyses and CMIP6 projections, I study how the strength, direction and even the sign of soil moisture–temperature coupling vary across regions and change under warming, and how the land surface modulates temperature trends and the carbon cycle. Within the ERC project <strong>HEAT</strong> and the FWO project <strong>CausalHeat</strong> this work targets the climatic drivers of human heat stress and the causal dynamics of dry and humid hot extremes, including a new daily <em>Standardized Soil Moisture–Temperature Compound Index</em> (SSTCI) and a global event catalogue of compound dry–hot extremes.</p>
 <ul class="pubs">
   <li><span class="me">Hagan, D. F. T.</span>, Wang, G., Kennedy-Asser, A. T. et al. (2026). Divergent regional responses of soil moisture–air temperature coupling under future climate scenarios. <em>Nature Communications</em>, 17, 7311. <a href="https://doi.org/10.1038/s41467-026-74040-w">doi:10.1038/s41467-026-74040-w</a></li>
@@ -41,7 +41,7 @@ My research asks a deceptively simple question: **which way does the arrow point
 </div>
 
 <div class="theme">
-<h3>3 · Vegetation–climate causality</h3>
+<h3>3 · Vegetation–climate interactions and its causalities</h3>
 <p>Vegetation sits in the middle of the land–atmosphere system: it responds to soil moisture and atmospheric dryness, and feeds back on both through transpiration and surface energy partitioning. With students and collaborators I use causal and multi-model approaches to ask how the vegetation response to soil moisture and vapour-pressure deficit is changing, how greening and transpiration are coupled in models versus observations, and how urban land-cover change alters the surface energy balance and heat-island intensity.</p>
 <ul class="pubs">
   <li>Zhou, F., <span class="me">Hagan, D. F. T.</span>, Wang, G. et al. (2026). Declining vegetation response to soil moisture and vapor pressure deficit in Inner Mongolian grasslands. <em>Journal of Climate</em>, 39, 4617–4634. <a href="https://doi.org/10.1175/JCLI-D-25-0597.1">doi:10.1175/JCLI-D-25-0597.1</a></li>
