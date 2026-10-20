@@ -97,7 +97,7 @@ My research asks a deceptively simple question: **which way does the arrow point
   <tr><th>Project</th><th>Funder</th><th>Period</th><th>Role</th></tr>
   <tr><td><strong>HEAT</strong> — Hybrid dry–hot Extremes prediction and AdapTation</td><td>European Research Council</td><td>2023–</td><td>Senior research scientist, H-CEL</td></tr>
   <tr><td><strong>CausalHeat</strong> — Mapping the causal dynamics of dry and humid hot extremes (Belgium–China)</td><td>Research Foundation – Flanders (FWO)</td><td>2025–2027</td><td>Co-PI</td></tr>
-  <tr><td><strong>Causal Inference for Geoscience</strong></td><td>Government of Singapore</td><td>newly approved</td><td>Co-PI</td></tr>
+  <tr><td><strong>Development of Causal Discovery Methodologies Under Non-Stationary Conditions: Applications to Climate Variability</strong></td><td>Government of Singapore</td><td>newly approved</td><td>Co-PI</td></tr>
   <tr><td><strong>IcyAlert</strong> — Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers (<a href="https://icyalert.github.io">icyalert.github.io</a>)</td><td>Novo Nordisk Foundation</td><td>2025–2031</td><td>Advisor</td></tr>
   <tr><td>Tackling sustainable water resources and food security constraints over the China–Pakistan Economic Corridor in a warming world</td><td>Belt and Road Initiative (China)</td><td>completed</td><td>PI (applied for, received and managed)</td></tr>
 </table>
