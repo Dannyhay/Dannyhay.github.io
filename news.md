@@ -67,8 +67,4 @@ permalink: /News/
 
 ### Also recently
 
-- Invited by the **European Space Agency** to the *New Earth Observation Mission Ideas* workshop at ESTEC, Noordwijk (The Netherlands).
-- Appointed **Early-Career Representative** of the [AIMES Land Data Assimilation Working Group](https://aimesproject.org/ldawg) (NASA Goddard).
-- **Guest editor** of the *Frontiers in Environmental Science* research topic [Unravelling soil moisture dynamics and their roles in climate model sensitivity](https://www.frontiersin.org/research-topics/72027/unravelling-soil-moisture-dynamics-and-their-roles-in-climate-model-sensitivity).
-- **Co-PI** of a newly approved project funded by the Singaporean government, *Development of Causal Discovery Methodologies Under Non-Stationary Conditions: Applications to Climate Variability*.
-- **Advisor** to [IcyAlert](https://icyalert.github.io) — Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers — funded by the Novo Nordisk Foundation (2025–2031).
+- [6th Annual Land Data Assimilation Community Virtual Workshop](https://aimesproject.org/6th-annual-land-data-assimilation-community-workshop/) (online, 27–28 October 2026). Full videos of the talks will be available soon.
