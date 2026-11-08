@@ -12,7 +12,7 @@ Open datasets and methods from my research. Everything below is freely available
   <a href="{{ '/figure/slimcol_overview.jpg' | relative_url }}"><img src="{{ '/figure/slimcol_overview.jpg' | relative_url }}" alt="Schematic of the slimcol two-source column model: forcing, surface layer, tree and grass tiles with sunlit and shaded leaves, plant hydraulics, a three-store bucket hydrology and soil heat, observation operators and evaluation"></a>
   <figcaption>slimcol at a glance: two-source canopy and ground energy balances in tree and grass tiles, a three-store bucket with a deep reservoir, optional plant hydraulics and an optional mixed-layer atmosphere, evaluated against eddy-covariance towers.</figcaption>
 </figure>
-<p>slimcol is a Python column model built to make heat-wave mechanisms <em>testable</em>: every physical pathway can be switched on or off, so you can see directly what each one does to surface temperature and fluxes. It began as a port of the SLIM and SEMB simple land models and has grown into a two-source model with</p>
+<p>slimcol is a Python column model built to make heat-wave mechanisms <em>testable</em>: every physical pathway can be switched on or off, so you can see directly what each one does to surface temperature and fluxes. It began as a port of the SLIM and SEMB simple land models and has grown into a two-source model (since 2022) with</p>
 <ul>
   <li>separate energy balances for the canopy and the ground surface, with Monin–Obukhov surface-layer exchange;</li>
   <li>Farquhar–Medlyn leaf photosynthesis and stomatal conductance, with layered shortwave and longwave radiation;</li>
