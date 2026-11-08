@@ -19,7 +19,6 @@ Open datasets and methods from my research. Everything below is freely available
   <li>a three-store soil-water bucket with a deep reservoir, ten-layer soil heat and a water-supply feedback that turns latent heat the soil cannot supply into sensible heat;</li>
   <li>optional plant hydraulics, side-by-side tree and grass tiles, carbon fluxes, and an optional coupled mixed-layer atmosphere driven by ERA5.</li>
 </ul>
-<p>A sequence of presets runs from the simplest configuration (a fixed-resistance bucket) to the full two-source model, each adding one mechanism. The model runs on FLUXNET tower forcing and is evaluated against eddy-covariance sites in oak savannas and grasslands — US-Ton and US-Var in California, and ES-LM2 in Spain — under a pre-registered protocol: predictions and pass thresholds are written down before each experiment, failed predictions are reported as failed, and every output carries full provenance so any run can be reproduced bit for bit.</p>
 <p>The core land model is in place and tested; plant hydraulics, tiles and the coupled atmosphere are still being evaluated. The code and a reference manual will be released here once the evaluation is complete.</p>
 </div>
 
