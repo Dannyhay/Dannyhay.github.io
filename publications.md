@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /Publications/
 ---
 
-Peer-reviewed publications (84), grouped by year, followed by manuscripts under review, selected conference contributions and published datasets; my name is shown in bold. For citation metrics and full texts see <a href="https://scholar.google.com/citations?user=KUfwjYsAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0003-3501-9783">ORCID</a> or <a href="https://www.researchgate.net/profile/Daniel-Hagan-2">ResearchGate</a>.
+Peer-reviewed publications (84), grouped by year, followed by preprints, selected conference contributions and published datasets; my name is shown in bold. For citation metrics and full texts see <a href="https://scholar.google.com/citations?user=KUfwjYsAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0003-3501-9783">ORCID</a> or <a href="https://www.researchgate.net/profile/Daniel-Hagan-2">ResearchGate</a>.
 
 <h2 class="pubs-year">2026</h2>
 <ol class="publist">
@@ -134,11 +134,8 @@ Peer-reviewed publications (84), grouped by year, followed by manuscripts under 
   <li>Wang, G., <span class="me">Hagan, D. F. T.</span>, Lou, D. &amp; Chen, T. Evaluation of soil moisture derived from FY3B microwave brightness temperature over the Tibetan Plateau. <span class="venue">Remote Sensing Letters</span>, 7, 817–826. <a class="doi" href="https://doi.org/10.1080/2150704X.2016.1192303">doi:10.1080/2150704X.2016.1192303</a></li>
 </ol>
 
-<h2 class="pubs-year">Under review and preprints</h2>
+<h2 class="pubs-year">Preprints</h2>
 <ul class="publist">
-  <li>Liu, M., <span class="me">Hagan, D. F. T.</span>, Miralles, D. G., et al. Growing-season vegetation impacts under compound dry–hot extremes are shaped by response persistence and legacy. Nature Communications (under review).</li>
-  <li>Zhou, F., <span class="me">Hagan, D. F. T.</span>, et al. Synergistic water supply and demand drive temperate grassland functionality over China. Environmental Research Letters (under review).</li>
-  <li><span class="me">Hagan, D. F. T.</span>, Miralles, D. G. Crop identity sets the surface and boundary-layer response to irrigation. Agricultural and Forest Meteorology (under review). Preprint: <a class="doi" href="https://doi.org/10.2139/ssrn.7648546">doi:10.2139/ssrn.7648546</a></li>
   <li><span class="me">Hagan, D. F. T.</span> Attributing extreme-event probability to a source variable. arXiv preprint, 2026. <a class="doi" href="https://doi.org/10.48550/arXiv.2609.36422">doi:10.48550/arXiv.2609.36422</a></li>
   <li>Zhang, Y., <span class="me">Hagan, D. F. T.</span>, Miralles, D. G., Goergen, K., Kollet, S. Information flow causality reveals land–atmosphere coupling dynamics during compound dry–hot events in Europe. Preprint: <a class="doi" href="https://doi.org/10.21203/rs.3.rs-9450690/v1">doi:10.21203/rs.3.rs-9450690/v1</a></li>
   <li>Lindner, E., Adamson, H., Ajadi, S. A., Christa, S., <span class="me">Hagan, D. F. T.</span> (2026). Low built-up density emerges as a key driver of heat extremes over the Sahel. Zenodo. (Peer Reviewed) <a class="doi" href="https://doi.org/10.5281/zenodo.20606263">doi:10.5281/zenodo.20606263</a></li>
