@@ -364,3 +364,51 @@ article > h2, article > div > h2
   margin-top: 1.9em
   padding-bottom: .25em
   border-bottom: 1px solid reduce(14)
+
+// ---- Video embeds, badges (Nov 2026)
+.video-embed
+  position: relative
+  width: 100%
+  aspect-ratio: 16 / 9
+  margin: 1em 0 .4em
+  border-radius: 4px
+  overflow: hidden
+  box-shadow: 0 1px 4px reduce(18)
+  background: #000
+
+.video-embed iframe
+  position: absolute
+  inset: 0
+  width: 100%
+  height: 100%
+  border: 0
+
+.video-caption
+  font-size: .9em
+  margin: 0
+
+.video-caption i
+  margin-right: .35em
+
+.badge
+  display: inline-block
+  padding: .05em .55em
+  margin-left: .3em
+  border-radius: 999px
+  font-size: .72em
+  font-weight: $font-weight + 200
+  letter-spacing: .02em
+  vertical-align: .15em
+  color: #fff
+  background: $link-color
+  white-space: nowrap
+
+.badge-soon
+  background: #b8661a
+
+.dataset ul
+  margin: .3em 0 .6em
+  padding-left: 1.3em
+
+.dataset ul li
+  margin: .25em 0

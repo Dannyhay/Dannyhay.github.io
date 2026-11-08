@@ -8,12 +8,15 @@ A selection of my publications, grouped by year; my name is shown in bold. I hav
 
 <h2 class="pubs-year">2026</h2>
 <ol class="publist">
+  <li>Aftab, R., <span class="me">Hagan, D. F. T.</span>, Wang, G., Shan, B., Shah, S. H., Zhou, C., Wei, X., Siddique, F., Jaffry, A. H. &amp; Yeboah, E. The Standardized Soil Moisture–Temperature Compound Index (SSTCI): daily scale global data set and event catalogue for compound dry–hot extremes (1961–2023). <span class="venue">Earth System Science Data</span>, 18, 7981–8002. <a class="doi" href="https://doi.org/10.5194/essd-18-7981-2026">doi:10.5194/essd-18-7981-2026</a> <span class="badge">Highlight paper</span> <a href="https://doi.org/10.5446/74082">video abstract</a></li>
+  <li>Siddique, F., <span class="me">Hagan, D. F. T.</span>, Wang, G., Docquier, D. &amp; Vannitsem, S. Benchmarking conditioners in Liang–Kleeman Information Flow: application to land–atmosphere interactions in humid forests. <span class="venue">Earth System Dynamics</span>, 17, 1551–1572. <a class="doi" href="https://doi.org/10.5194/esd-17-1551-2026">doi:10.5194/esd-17-1551-2026</a></li>
+  <li>Zhang, Y., <span class="me">Hagan, D. F. T.</span>, Miralles, D. G., Goergen, K. &amp; Kollet, S. Information flow causality reveals land–atmosphere coupling dynamics during compound dry–hot events in Europe. <span class="venue">Climate Dynamics</span>, accepted. <a href="https://www.researchsquare.com/article/rs-9450690/v1">preprint</a></li>
   <li><span class="me">Hagan, D. F. T.</span>, Wang, G., Kennedy-Asser, A. T. et al. Divergent regional responses of soil moisture–air temperature coupling under future climate scenarios. <span class="venue">Nature Communications</span>, 17, 7311. <a class="doi" href="https://doi.org/10.1038/s41467-026-74040-w">doi:10.1038/s41467-026-74040-w</a></li>
   <li>Zhou, F., <span class="me">Hagan, D. F. T.</span>, Wang, G., Li, S., Wei, X., Hu, Y., Siddique, F. &amp; Zhang, X. Declining vegetation response to soil moisture and vapor pressure deficit in Inner Mongolian grasslands. <span class="venue">Journal of Climate</span>, 39, 4617–4634. <a class="doi" href="https://doi.org/10.1175/JCLI-D-25-0597.1">doi:10.1175/JCLI-D-25-0597.1</a></li>
   <li>Yeboah, E., <span class="me">Hagan, D. F. T.</span>, Wang, G., Cabral, P., Sarfo, I., Bediako-Kyeremeh, B., Zhu, C., Zhou, F., El Rhadiouini, C. &amp; Hu, Y. Understanding the causal influence of energy balance components on urban heat islands in a mid-latitude city — Chongqing, China. <span class="venue">Urban Climate</span>, 65, 102735. <a class="doi" href="https://doi.org/10.1016/j.uclim.2025.102735">doi:10.1016/j.uclim.2025.102735</a></li>
+  <li>Aftab, R., Wang, G., <span class="me">Hagan, D. F. T.</span>, Shan, B., Shah, S. H., Siddique, F., Zhou, C., Wei, X., Jaffry, A. H. &amp; Yeboah, E. A daily soil moisture–temperature compound index for characterising dry–hot extremes. <span class="venue">International Journal of Climatology</span>, e70306. <a class="doi" href="https://doi.org/10.1002/joc.70306">doi:10.1002/joc.70306</a></li>
   <li><span class="me">Hagan, D. F. T.</span>, Mortier, T., Decancq, C. &amp; Miralles, D. G. Causal importance for physics-informed machine learning. <span class="venue">Proceedings of Machine Learning Research</span>, 323 (Conference on Causal Learning and Reasoning, CLeaR 2026), 627–655.</li>
   <li>Model–observation discrepancies in the coupling of vegetation greening and transpiration under rising vapor pressure deficit. <span class="venue">Water Resources Research</span>.</li>
-  <li>A daily soil moisture–temperature compound index for characterising dry–hot extremes. <span class="venue">International Journal of Climatology</span>.</li>
   <li>Observed declining strength of vegetation–atmosphere coupling. <span class="venue">Agricultural and Forest Meteorology</span>.</li>
   <li>Low built-up density emerges as a key driver of heat extremes over the Sahel.</li>
 </ol>
@@ -96,10 +99,7 @@ A selection of my publications, grouped by year; my name is shown in bold. I hav
 
 <h2 class="pubs-year">Preprints</h2>
 <ol class="publist">
-  <li>The Standardized Soil Moisture–Temperature Compound Index (SSTCI): daily-scale global dataset and event catalogue for compound dry–hot extremes (1961–2023). 2026.</li>
-  <li>Information flow causality reveals land–atmosphere coupling dynamics during compound dry–hot events in Europe. 2026.</li>
-  <li>Benchmarking conditioners in Liang–Kleeman information flow: application to land–atmosphere interactions. 2026.</li>
-  <li>Information flow causality reveals climate regime shifts during compound dry–hot events. 2025.</li>
+  <li>Information flow causality reveals climate regime shifts during compound dry–hot events. 2025. <a href="https://www.researchsquare.com/article/rs-7931403/v1">Research Square</a></li>
 </ol>
 
 <p style="font-size:.9em; opacity:.8">* corresponding author.</p>
