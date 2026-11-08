@@ -43,12 +43,14 @@ permalink: /Talks/
 
 <div class="card">
   <div class="card-title">Improving the representation of land surface processes using the Data Assimilation Research Testbed (DART)</div>
-  <div class="card-sub">2025</div>
+  <div class="card-sub">2025 · conference paper</div>
+  <p>Raczka, B. M., Huo, X., Lin, J. C., Hagan, D. F. T. et al.</p>
 </div>
 
 <div class="card">
   <div class="card-title">Advancing drought monitoring in India through land data assimilation with CLM5-DART</div>
-  <div class="card-sub">2025</div>
+  <div class="card-sub">EGU General Assembly 2025</div>
+  <p>Naik, D. C., Dhanya, C. T., Raczka, B. M. &amp; Hagan, D. F. T. <a href="https://doi.org/10.5194/egusphere-egu25-6905">doi:10.5194/egusphere-egu25-6905</a></p>
 </div>
 
 <div class="card">
